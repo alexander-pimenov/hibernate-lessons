@@ -20,6 +20,10 @@ out/
 *.iml
 *.ipr
 
+### Giga IDE ###
+.gigaide
+.gigaide/
+
 ### Eclipse ###
 .apt_generated
 .classpath
