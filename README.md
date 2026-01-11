@@ -473,7 +473,7 @@ https://www.youtube.com/watch?v=WrCfR9TGFzo
 configuration
     .setProperty("hibernate.current_session_context_class", "thread")
 ```
-
+Получение текущей сессии:
 ```java
 var session = sessionFactory.getCurrentSession();
 ```
